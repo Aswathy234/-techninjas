@@ -4,6 +4,16 @@ body{
 background-repeat: no-repeat;
 background-size: cover;
 color:white;
-font-size: 19px;
+font-size: 16px;
 font-weight: bolder;
+}
+h1{
+    color: black;
+}
+#TB{
+    height:200px;
+    width:400px;
+}
+#CMT{
+    text-align: center;
 }
